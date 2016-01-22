@@ -12,8 +12,8 @@
         <div class="container">
             <div class="col-lg-11 col-lg-offset-1">
                 <h1>Task List Manager</h1>
-                <h3>Click on an item to delete it.
-                    Click on insert button to insert new Item. 
+                <h3>Click on delete button to delete task.
+                    Click on insert button to insert new task. 
                     Click delete all button to remove all tasks in list.
                 </h3>
                 <div class="container-fluid">
